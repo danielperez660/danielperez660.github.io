@@ -1,7 +1,14 @@
 
 
 # $whoami
-I guess this is sort of a short virtual CV explaining what I have done so far in my life. As with most CVs I will do my best to sell myself asa great constructive member of society! Sit tight cause this will be rather... underwhelming.
+I guess this is sort of a short virtual CV explaining what I have done so far in my life. As with most CVs I will do my best to sell myself asa great constructive 
+member of society! Sit tight cause this will be rather... underwhelming.
+
+<br>
+
+## Certifications
+### eJPT - eLearnSecurity Junior Penetration Tester (June 2020)
+[Certificate PDF](./resources/Your_ejpt_certificate.pdf) 
 
 <br>
 
