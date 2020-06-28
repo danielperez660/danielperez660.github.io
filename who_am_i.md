@@ -13,6 +13,7 @@ member of society! Sit tight cause this will be rather... underwhelming.
 ## Certifications
 ### eJPT - eLearnSecurity Junior Penetration Tester (June 2020)
 [Certificate PDF](./resources/Your_ejpt_certificate.pdf) 
+
 The eJPT taught me some interesting concepts of penetration testing. I learned a lot about the specifics of the OSI model and also learned about pivoting and enumerating an unknown 'black box'. I completed the eJPT on my first attempt.
 
 <br>
