@@ -12,6 +12,11 @@
 
 * * *
 
+# >> [CTFs](./ctfs.html)
+
+   Some write-ups regarding CTFs that I have taken part in.
+
+* * *
 
 
 <!---
