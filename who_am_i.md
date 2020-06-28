@@ -15,7 +15,7 @@ I developed pattern analysis skills and teamwork skills.
 Worked with an system to update and implement new features. Worked with and AngularJS and mongoDB based backend while also using the pug/jade template engine.
 
 ### Spanish and Mathematics Tutor(2016 - 2017)
-Pretty self explanatory
+Pretty self explanatory.
 
 <br>
 
