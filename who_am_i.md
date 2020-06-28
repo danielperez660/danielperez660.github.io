@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## whoami
 
-_yay_
+
 
 [back](./)
