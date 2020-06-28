@@ -6,6 +6,10 @@ member of society! Sit tight cause this will be rather... underwhelming.
 
 <br>
 
+## Employment
+
+<br>
+
 ## Certifications
 ### eJPT - eLearnSecurity Junior Penetration Tester (June 2020)
 [Certificate PDF](./resources/Your_ejpt_certificate.pdf) 
