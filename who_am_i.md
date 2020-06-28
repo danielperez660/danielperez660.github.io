@@ -3,9 +3,11 @@
 # <b> $whoami <b>
 I guess this is sort of a short virtual CV explaining what I have done so far in my life. As with most CVs I will do my best to sell myself asa great constructive 
 member of society! Sit tight cause this will be rather... underwhelming.
+  
 <br>  
 * * *
 <br>
+
 ## >> Employment
 ### Trading Analyst at “QuantBet Limited”- (January 2019 - November 2019)
 I worked in a team of 6 people analysing the output of our trading system to ensure that everything was working as expected. 
@@ -16,17 +18,21 @@ Worked with an system to update and implement new features. Worked with and Angu
 
 ### Spanish and Mathematics Tutor(2016 - 2017)
 Pretty self explanatory.
+
 <br>  
 * * *
 <br>
+
 ## >> Certifications
 ### eJPT - eLearnSecurity Junior Penetration Tester (June 2020)
 [Certificate PDF](./resources/Your_ejpt_certificate.pdf) 
 
 The eJPT taught me some interesting concepts of penetration testing. I learned a lot about the specifics of the OSI model and also learned about pivoting and enumerating an unknown 'black box'. I completed the eJPT on my first attempt.
+
 <br>  
 * * *
 <br>
+
 ## >> Education
 ### Cyber Security MSc - York University (2020 - 2021)
 Due to start at the end of September. Modules are meant to start online due to the COVID-19 pandemic.
