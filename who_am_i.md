@@ -6,7 +6,7 @@ member of society! Sit tight cause this will be rather... underwhelming.
 
 <br>
 
-## Employment
+## >> Employment
 ### Trading Analyst at “QuantBet Limited”- (January 2019 - November 2019)
 I worked in a team of 6 people analysing the output of our trading system to ensure that everything was working as expected. 
 I developed pattern analysis skills and teamwork skills.
@@ -19,7 +19,7 @@ Pretty self explanatory.
 
 <br>
 
-## Certifications
+## >> Certifications
 ### eJPT - eLearnSecurity Junior Penetration Tester (June 2020)
 [Certificate PDF](./resources/Your_ejpt_certificate.pdf) 
 
@@ -27,7 +27,7 @@ The eJPT taught me some interesting concepts of penetration testing. I learned a
 
 <br>
 
-## Education
+## >> Education
 ### Cyber Security MSc - York University (2020 - 2021)
 Due to start at the end of September. Modules are meant to start online due to the COVID-19 pandemic.
 
