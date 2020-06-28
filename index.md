@@ -1,23 +1,25 @@
 # >> [$whoami](./who_am_i.html)
-* * *
+
    28 June 2019
 
    Basic introduction to who I am and what I do.
-<br>
+   
+* * *
 
 # >> [Projects](./projects.html)
-* * *
    28 June 2019
 
    Looking over some of the projects I've done in the past.
-<br>
+
+* * *
 
 # >> [CTFs](./ctfs.html)
-* * *
    28 June 2019
 
    Some write-ups regarding CTFs that I have taken part in.
-<br>
+   
+* * *
+   
 
 <!---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
