@@ -5,6 +5,12 @@
 
 * * *
 
+# >> [Projects](./projects.html)
+   28 June 2019
+
+   Looking over some of the projects I've done in the past.
+
+* * *
 
 
 
