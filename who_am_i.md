@@ -10,14 +10,14 @@ During my studies at the university of Leeds I found out that I was actually a b
 
 Some of the modules I took which I found especially interesting were, in no specific order:
 
->> Databases
+>> [Databases]
 
->> Computer Processors
+>> [Computer Processors]
 
->> Networks
+>> [Networks]
 
->> Distributed Systems
+>> [Distributed Systems]
 
->> Secure Computing
+>> [Secure Computing]
 
 [back](./)
