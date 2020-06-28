@@ -3,7 +3,7 @@
 # <b> $whoami <b>
 I guess this is sort of a short virtual CV explaining what I have done so far in my life. As with most CVs I will do my best to sell myself asa great constructive 
 member of society! Sit tight cause this will be rather... underwhelming.
-
+* * *
 <br>
 
 ## >> Employment
@@ -16,7 +16,7 @@ Worked with an system to update and implement new features. Worked with and Angu
 
 ### Spanish and Mathematics Tutor(2016 - 2017)
 Pretty self explanatory.
-
+* * *
 <br>
 
 ## >> Certifications
@@ -24,7 +24,7 @@ Pretty self explanatory.
 [Certificate PDF](./resources/Your_ejpt_certificate.pdf) 
 
 The eJPT taught me some interesting concepts of penetration testing. I learned a lot about the specifics of the OSI model and also learned about pivoting and enumerating an unknown 'black box'. I completed the eJPT on my first attempt.
-
+* * *
 <br>
 
 ## >> Education
