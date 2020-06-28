@@ -1,7 +1,7 @@
 # >> [$whoami](./who_am_i.html)
-    28 June 2019
+   28 June 2019
 
-    Basic introduction to who I am and what I do.
+   Basic introduction to who I am and what I do.
 
 * * *
 
