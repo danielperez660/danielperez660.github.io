@@ -29,6 +29,5 @@ Very simple rock paper scissors game that I used to introduce myself to python v
 Implemented to be used in the command line and also with a GUI. 
 
 <br>
-<br>
 
 [back](./)
