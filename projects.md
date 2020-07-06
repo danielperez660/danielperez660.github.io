@@ -9,14 +9,17 @@ My final year project for my Computer Science BSc. Uses an android based system 
 
 ### Flask Multi API System - Python:  [Github link](https://github.com/danielperez660/rest_python_flask)
 * * *
+Coursework for a distributed systems module, uses 3 different REST API's to contribute to one central web app. One of the API's is developed by me and can also be found in the repository. 
 <br>
 
 ### Django Teacher Assessment System - Python:  [Github link](https://github.com/danielperez660/Django_API)
 * * *
+Django based rating system for teachers. This system only functions for a given scenario and so lacks robustness. 
 <br>
 
 ### Basic Website Crawler and Browser - Python:  [Github link](https://github.com/danielperez660/Crawler-and-search-engine)
 * * *
+Very basic web crawler and browser system. This system allows you to crawl a specific website and saves the key words in a weighted inverted index. It later allows you to search for specific terms and returns a url based on the frequency and position of the term in the given web page. This system is again only meant as a PoC and so its regex for parsing is very centred around the website in the scenario.
 <br>
 
 ### TkInter and CLI Based Rock Paper Scissors - Python:  [Github link](https://github.com/danielperez660/Rock_Paper_Scissors)
