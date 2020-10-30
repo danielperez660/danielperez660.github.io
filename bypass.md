@@ -19,18 +19,21 @@ When we ran the executable we seemed to get a prompt asking for a username and p
 
 ![Bypass Executed](/resources/Bypass/execute.PNG)
 *Figure 1: Running Bypass.exe*
+<br>
 
 Running strings on the executable usually lets us see if the executalbe is compressed/packed in any way, so we ran it.
 Strings also lets us see what alphanumeric combinations exist in the executable, this tends to give us some information about the content of the precompiled code.
 
 ![Bypass Strings](/resources/Bypass/strings.PNG)
 *Figure 2: Strings output on Bypass.exe*
+<br>
 
 In the last couple of lines of strings we see an interesting output. 
 One of the final lines seems to expose information about what language the precompiled codebase was written in. 
 
 ![Bypass Net](/resources/Bypass/net.PNG)
 *Figure 3: Strings output on Bypass.exe*
+<br>
 
 As you might have guessed from the output of strings shown in figure 3, the codebase was written in .NET and so C#.
 This became relevant once we tried to exploit the executable.
@@ -46,6 +49,7 @@ coherent sense out of the binary.
 
 ![dnSpy](/resources/Bypass/dnSpy1.PNG)
 *Figure 4: Decompiled binary*
+<br>
 
 The programme seemed to have a bunch of functions which checked the input by the user against a secondary set of values.
 
@@ -58,6 +62,7 @@ Our solution for this problem was to change the value of flag2 on the fly, and s
 
 ![beakpoint 1](/resources/Bypass/break1.PNG)
 *Figure 5: Hitting the if statement*
+<br>
 
 With our breakpoint set we ran the programme and entered the username and password values.
 
@@ -66,6 +71,7 @@ After modifying the value of flag2 to equal true we managed to pass the if state
 
 ![beakpoint 2](/resources/Bypass/break2.PNG)
 *Figure 6: Strings output on Bypass.exe*
+<br>
 
 In function 2() we got prompted for a secret key (lines 36-37 in figure 6), and that secret key got compared to a specific value. If the secret key was equal to the given value then true was stored in flag, if not, false was stored in flag.
 
@@ -73,6 +79,7 @@ Thanks to our trusty breakpoint in line 39 we saw that the value which we were c
 
 ![Final](/resources/Bypass/w.PNG)
 *Figure 7: Strings output on Bypass.exe*
+<br>
 
 Once we ran the executable again and inputted the correct key we got the password for HTB! Success!
 
