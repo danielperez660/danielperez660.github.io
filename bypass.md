@@ -83,7 +83,7 @@ Thanks to our trusty breakpoint in line 39 we saw that the value which we were c
 *Figure 7: Strings output on Bypass.exe*
 <br>
 
-Once we ran the executable again and inputted the correct key we got the password for HTB! 
+Once we ran the executable again and inputted the correct key we got the flag for HTB! 
 
 Success!
 
