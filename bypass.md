@@ -75,13 +75,17 @@ After modifying the value of flag2 to equal true we managed to pass the if state
 
 In function 2() we got prompted for a secret key (lines 36-37 in figure 6), and that secret key got compared to a specific value. If the secret key was equal to the given value then true was stored in flag, if not, false was stored in flag.
 
+Working off the assumption that we had to find the value which would store true in flag, we got to work.
+
 Thanks to our trusty breakpoint in line 39 we saw that the value which we were comparing our input against was "ThisIsAReallyReallySecureKeyButYouCanReadItFromSourceSoItSucks".
 
 ![Final](/resources/Bypass/w.PNG)
 *Figure 7: Strings output on Bypass.exe*
 <br>
 
-Once we ran the executable again and inputted the correct key we got the password for HTB! Success!
+Once we ran the executable again and inputted the correct key we got the password for HTB! 
+
+Success!
 
 <br><br>
 [back](./ctfs.md)
