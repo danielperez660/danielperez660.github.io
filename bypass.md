@@ -35,7 +35,7 @@ One of the final lines seems to expose information about what language the preco
 
 ![Bypass Net](/resources/Bypass/net.PNG)
 *Figure 3: Strings output on Bypass.exe*
-<br>
+<br><br>
 
 As you might have guessed from the output of strings shown in figure 3, the codebase was written in .NET and so C#.
 This became relevant once we tried to exploit the executable.
