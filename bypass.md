@@ -40,7 +40,7 @@ This became relevant once we tried to exploit the executable.
 
 ## Exploitation
 
-After attempting to reverse the executable in Radare2 for a while we realised that we werent getting anywhere.
+After attempting to reverse the executable in Radare2 for a while, we realised that we werent getting anywhere.
 Some research on the reversing of .NET binaries led us to a tool called [dnSpy](https://github.com/dnSpy/dnSpy).
 dnSpy lets you decompile .NET code and set breakpoints during runtime in the same way as Radare2.
 
