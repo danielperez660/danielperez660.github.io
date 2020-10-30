@@ -89,5 +89,7 @@ Once we ran the executable again and inputted the correct key we got the flag fo
 
 Success!
 
-<br><br>
+If this writeup helped you please feel free to go to my [HTB profile](https://www.hackthebox.eu/home/users/profile/155278) and give me a respect :))
+
+
 [back](./ctfs.md)
