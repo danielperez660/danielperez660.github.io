@@ -1,6 +1,6 @@
 # CTF Experience
 
-### >> HTB Challenges
+### >> Hack The Box Challenges
 * * *
 
 Bypass (Reversing): [Writeup](./bypass.md)
