@@ -77,7 +77,7 @@ In function 2() we got prompted for a secret key (lines 36-37 in figure 6), and 
 
 Working off the assumption that we had to find the value which would store true in flag, we got to work.
 
-Thanks to our trusty breakpoint in line 39 we saw that the value which we were comparing our input against was "ThisIsAReallyReallySecureKeyButYouCanReadItFromSourceSoItSucks".
+Thanks to our trusty breakpoint in line 39 we saw that the value which we were comparing our input against was "ThisIsAReallyReallySecureKeyButYouCanReadItFromSourceSoItSucks" (figure 6).
 
 ![Final](/resources/Bypass/w.PNG)
 *Figure 7: Strings output on Bypass.exe*
