@@ -57,7 +57,7 @@ Looking at the boolean values flag and flag2 we saw that they were equal to each
 After looking at function 1() we realised that here is where we were getting prompted to enter a username and password, but there was a trick, the function always returned false.
 Since the function 1() always returned false we could never get to line 13 in function 0() and so could never move to the secondary check (which we discuss later).
 
-Our solution for this problem was to change the value of flag2 on the fly, and some we set a breakpoint before the if check executed and changed the value of flag2. The breakpoint is shown by a red dot on figure 4.
+Our solution for this problem was to change the value of flag2 on the fly, and so we set a breakpoint before the if check executed and changed the value of flag2. The breakpoint is shown by a red dot on figure 4.
 
 
 ![beakpoint 1](/resources/Bypass/break1.PNG)
